@@ -5,7 +5,12 @@ The system can identify whether the drug is counterfeit or not just with the hel
 
 ## ScreenShots
 
+### Homepage
 ![Homepage](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/469/658/datas/gallery.jpg)
+
+### Output for a Valid Drug
 ![Valid Sample](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/469/659/datas/gallery.jpg)
+
+### Output for a Counterfeit Drug
 ![Counterfeit Drug Output](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/469/660/datas/gallery.jpg)
 
