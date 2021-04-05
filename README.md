@@ -14,3 +14,9 @@ The system can identify whether the drug is counterfeit or not just with the hel
 ### Output for a Counterfeit Drug
 ![Counterfeit Drug Output](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/469/660/datas/gallery.jpg)
 
+## Contributors
+
+<a href="https://github.com/ckmganesh">Ganesh C K M</a><br>
+<a href="https://github.com/siddharth1010">Siddharth M Nair</a><br>
+<a href="https://github.com/ramcalm">Ram Gunasekaran A</a><br>
+
